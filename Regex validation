@@ -1,0 +1,1 @@
+don't accept unidcode :   onkeypress="return /[0-9a-zA-Z]/i.test(event.key)"
